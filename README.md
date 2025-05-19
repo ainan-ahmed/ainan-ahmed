@@ -94,6 +94,7 @@ Here are a couple of projects I'm proud of / currently working on:
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+![](https://komarev.com/ghpvc/?username=your-github-ainan-ahmed&color=yellowgreen&abbreviated=true)
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ainan_ahmed?theme=dark&font=Cagliostro)
 
