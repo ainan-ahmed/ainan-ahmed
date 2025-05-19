@@ -7,7 +7,7 @@
 > Talk is cheap. Show me the code. - Linus Torvalds
 <h1 align="center">Hi there, I'm Ainan Ahmed Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <em>Software Engineer | MSc High Integrity Systems Student @ Frankfurt University of Applied Sciences <br /> Passionate about Software Engineering, Problem Solving, and Competitive Programming</em>
+  <em>Software Engineer | MSc High Integrity Systems Student @ Frankfurt University of Applied Sciences <br /> Passionate about Software Engineering, Problem Solving</em>
 </p>
 
 <p align="center">
