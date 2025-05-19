@@ -3,6 +3,8 @@
     </a>
 </div>
 
+> [!IMPORTANT]
+> Talk is cheap. Show me the code. - Linus Torvalds
 <h1 align="center">Hi there, I'm Ainan Ahmed Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <em>Software Engineer | MSc High Integrity Systems Student @ Frankfurt University of Applied Sciences <br /> Passionate about Full-Stack Development, Problem Solving, and Competitive Programming</em>
@@ -82,7 +84,7 @@ Here are a couple of projects I'm proud of / currently working on:
 
 ## 🏆 Competitive Programming Highlights
 
-* **Codeforces Max Rating:** 1510 (Specialist)
+* **Codeforces Max Rating:** 1510 (Specialist) 
 
 ---
 
@@ -93,6 +95,9 @@ Here are a couple of projects I'm proud of / currently working on:
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/ainan_ahmed?theme=dark&font=Cagliostro)
+
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#58](https://github.com/ainan-ahmed/EcommForAll/pull/58) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
