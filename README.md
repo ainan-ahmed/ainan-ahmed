@@ -87,11 +87,12 @@ Here are a couple of projects I'm proud of / currently working on:
 ---
 
 ## 📈 My GitHub Stats
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+---
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 ---
-
 <p align="center">
   Thanks for visiting my profile!
 </p>
