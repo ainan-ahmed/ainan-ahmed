@@ -91,6 +91,12 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#58](https://github.com/ainan-ahmed/EcommForAll/pull/58) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+2. 💪 Opened PR [#58](https://github.com/ainan-ahmed/EcommForAll/pull/58) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+3. 🎉 Merged PR [#57](https://github.com/ainan-ahmed/EcommForAll/pull/57) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+4. 💪 Opened PR [#57](https://github.com/ainan-ahmed/EcommForAll/pull/57) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+5. 🎉 Merged PR [#56](https://github.com/ainan-ahmed/EcommForAll/pull/56) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+<!--END_SECTION:activity-->
 
 ---
 <p align="center">
