@@ -87,7 +87,11 @@ Here are a couple of projects I'm proud of / currently working on:
 ---
 
 ## 📈 My GitHub Stats
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ainan-ahmed}&theme={gruvbox}
+
+[![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
