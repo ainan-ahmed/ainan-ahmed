@@ -88,6 +88,8 @@ Here are a couple of projects I'm proud of / currently working on:
 
 ## 📈 My GitHub Stats
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 ---
 
 <p align="center">
