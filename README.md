@@ -87,7 +87,7 @@ Here are a couple of projects I'm proud of / currently working on:
 ---
 
 ## 📈 My GitHub Stats
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ainan-ahmed}&theme={gruvbox}
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
