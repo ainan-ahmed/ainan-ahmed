@@ -101,11 +101,11 @@ Here are a couple of projects I'm proud of / currently working on:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/ainan-ahmed/EcommForAll/pull/65) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-2. 💪 Opened PR [#65](https://github.com/ainan-ahmed/EcommForAll/pull/65) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-3. ❗ Opened issue [#64](https://github.com/ainan-ahmed/EcommForAll/issues/64) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-4. ❗ Opened issue [#63](https://github.com/ainan-ahmed/EcommForAll/issues/63) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-5. ❗ Opened issue [#62](https://github.com/ainan-ahmed/EcommForAll/issues/62) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+1. 🗣 Commented on [#62](https://github.com/ainan-ahmed/EcommForAll/issues/62#issuecomment-2954300592) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+2. 🎉 Merged PR [#66](https://github.com/ainan-ahmed/EcommForAll/pull/66) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+3. 💪 Opened PR [#66](https://github.com/ainan-ahmed/EcommForAll/pull/66) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+4. 🎉 Merged PR [#65](https://github.com/ainan-ahmed/EcommForAll/pull/65) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+5. 💪 Opened PR [#65](https://github.com/ainan-ahmed/EcommForAll/pull/65) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 <!--END_SECTION:activity-->
 
 ---
