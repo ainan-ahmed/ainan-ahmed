@@ -101,9 +101,9 @@ Here are a couple of projects I'm proud of / currently working on:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/ainan-ahmed/EcommForAll/pull/93) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-2. 💪 Opened PR [#93](https://github.com/ainan-ahmed/EcommForAll/pull/93) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-3. 🎉 Merged PR [#90](https://github.com/ainan-ahmed/EcommForAll/pull/90) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+1. ❌ Closed PR [#95](undefined) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+2. 💪 Opened PR [#95](undefined) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+3. 💪 Opened PR [#94](undefined) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 4. 💪 Opened PR [#90](https://github.com/ainan-ahmed/EcommForAll/pull/90) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 5. 🔒 Closed issue [#89](https://github.com/ainan-ahmed/EcommForAll/issues/89) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 <!--END_SECTION:activity-->
