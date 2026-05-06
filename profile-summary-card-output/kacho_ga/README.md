@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
-```
-
-    
