@@ -22,8 +22,10 @@
 I'm a software engineering enthusiast currently based in Frankfurt am Main, Germany. I enjoy building robust applications and solving complex problems. My journey in tech is fueled by a strong foundation in computer science, hands-on experience, and a continuous drive to learn and adapt to new technologies.
 
 * 🎓 I'm currently pursuing my **MSc in High Integrity Systems** from Frankfurt University of Applied Sciences, and hold a **BSc in Computer Science and Engineering**.
-* 👨‍💻 I recently worked as a **Working Student Software Engineer** at **Everest Systems GmbH** (Dec 2021 - Feb 2024).
-* 🔭 I’m currently focused on enhancing my full-stack e-commerce project, **EcommForAll**, and exploring deeper into cloud technologies and microservice architectures.
+* 👨‍💻 Experience:
+	* **Working Student Software Engineer** at **Everest Systems GmbH** (Dec 2021 - Feb 2024).
+ 	* Intern for Multidrop Networks at Huawei Research Center, Munich. (Oct 2025 - July 2026)
+* 🔭 I’m currently focused on enhancing my full-stack e-commerce project, **EcommForAll**, and exploring deeper into Agentic AI, AI 
 * 📫 How to reach me: [Email me](mailto:a.ahmed.chy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ainan-ahmed/).
 ---
 
