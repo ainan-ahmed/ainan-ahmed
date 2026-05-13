@@ -25,7 +25,7 @@ I'm a software engineering enthusiast currently based in Frankfurt am Main, Germ
 * 👨‍💻 Experience:
 	* **Working Student Software Engineer** at **Everest Systems GmbH** (Dec 2021 - Feb 2024).
  	* Intern for Multidrop Networks at Huawei Research Center, Munich. (Oct 2025 - July 2026)
-* 🔭 I’m currently focused on enhancing my full-stack e-commerce project, **EcommForAll**, and exploring deeper into Agentic AI, AI 
+* 🔭 I’m currently focused on developing and enhancing full stack development skill and exploring deeper into Agentic AI.
 * 📫 How to reach me: [Email me](mailto:a.ahmed.chy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ainan-ahmed/).
 ---
 
