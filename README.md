@@ -74,14 +74,13 @@ Here are some of the technologies and tools I enjoy working with/worked before:
 Here are a couple of projects I'm proud of / currently working on:
 
 1.  **EcommForAll** ([github.com/ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll))
-    * A full-stack e-commerce platform (Work-in-Progress).
-    * **Tech Stack:** React, TypeScript, Vite, TanStack Router & Query, Zustand, Mantine UI (Frontend); Java, Spring Boot, PostgreSQL (Backend); Docker & Docker Compose.
+    * A full-stack AI integrated e-commerce platform.
+    * **Tech Stack:** React, TypeScript, Vite, TanStack Router & Query, Zustand, Mantine UI (Frontend); Java, Spring Boot, Spring AI, PostgreSQL, pgvector (Backend); Docker & Docker Compose.
     * **Description:** Designed to be a modern, scalable, and type-safe online shopping experience, incorporating domain-driven design on the frontend and a layered architecture on the backend.
 
-2.  **FakeBook**  [github.com/ainan-ahmed/Fakebook](https://github.com/ainan-ahmed/Fakebook)
-    * A social media platform where users can register, follow others, and share status updates.
-    * **Tech Stack:** Python, Django/Django REST Framework, React, Redux, PostgreSQL, Docker.
-    * **Description:** A personal project to explore full-stack development and social media platform features.
+2.  **carefulWhisper**  [github.com/ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
+    *  A local-first dictation backend for fast speech-to-text and paste-to-cursor workflows, with global hotkey and text output integration.
+    * **Tech Stack:** Python, FastAPI, faster-whisper.
 ---
 
 ## 🏆 Competitive Programming Highlights
