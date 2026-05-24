@@ -102,8 +102,8 @@ Here are a couple of projects I'm proud of / currently working on:
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/ainan-ahmed/EcommForAll/pull/133#issuecomment-3980746381) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-2. 💪 Opened PR [#133](https://github.com/ainan-ahmed/EcommForAll/pull/133) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
+1. ℹ️ Labeled issue [#1](https://github.com/ainan-ahmed/carefulWhisper/issues/1) in [ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
+2. ❗ Opened issue [#1](https://github.com/ainan-ahmed/carefulWhisper/issues/1) in [ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
 3. 🎉 Merged PR [#132](https://github.com/ainan-ahmed/EcommForAll/pull/132) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 4. 💪 Opened PR [#132](https://github.com/ainan-ahmed/EcommForAll/pull/132) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 5. 🎉 Merged PR [#122](https://github.com/ainan-ahmed/EcommForAll/pull/122) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
