@@ -69,9 +69,7 @@ Here are some of the technologies and tools I enjoy working with/worked before:
 
 ---
 
-## 🚀 My Projects
-
-Here are a couple of projects I'm proud of / currently working on:
+## 🚀 My Recent Projects
 
 1.  **EcommForAll** ([github.com/ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll))
     * A full-stack AI integrated e-commerce platform.
@@ -79,8 +77,8 @@ Here are a couple of projects I'm proud of / currently working on:
     * **Description:** Designed to be a modern, scalable, and type-safe online shopping experience, incorporating domain-driven design on the frontend and a layered architecture on the backend.
 
 2.  **carefulWhisper**  [github.com/ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
-    *  A local-first dictation backend for fast speech-to-text and paste-to-cursor workflows, with global hotkey and text output integration.
-    * **Tech Stack:** Python, FastAPI, faster-whisper.
+    *  A local-first dictation backend and desktop app, for fast speech-to-text and paste-to-cursor workflows, with global hotkey and text output integration.
+    * **Tech Stack:** Python, FastAPI, faster-whisper, Slint(UI).
 ---
 
 ## 🏆 Competitive Programming Highlights
