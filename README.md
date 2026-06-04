@@ -49,7 +49,7 @@ I'm a software engineer currently based in Frankfurt am Main, Germany, focused o
     *   **Stack:** Python, FastAPI, faster-whisper, Slint UI.
 -  **WardrobeAssistant** ([GitHub](https://github.com/ainan-ahmed/wardrobeAssistant))
 	- *A local-first, AI-powered personal wardrobe manager*
-    - **Stack:** Python, FastAPI, React, Mantine, Pywebview, OpenClip 
+    - **Stack:** Python, FastAPI, PydanticAI, React, Mantine, Pywebview, OpenClip 
 ---
 
 ### 📊 Stats
