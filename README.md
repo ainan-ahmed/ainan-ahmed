@@ -1,113 +1,74 @@
 <div align="center">
-  <a href="[YOUR_LINKEDIN_URL_HERE_OR_REMOVE_LINK_TAG]">
-    </a>
-</div>
 
 > [!IMPORTANT]
 > Talk is cheap. Show me the code. - Linus Torvalds
-<h1 align="center">Hi there, I'm Ainan Ahmed Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <em>Software Engineer | MSc High Integrity Systems Student @ Frankfurt University of Applied Sciences <br /> Passionate about Software Engineering, Problem Solving</em>
-</p>
 
-<p align="center">
-  <a href="mailto:a.ahmed.chy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/ainan-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/ainan-ahmed"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
-  <a href="https://codeforces.com/profile/ainan.ahmed"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
+# Hi there, I'm Ainan Ahmed Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
----
+*Software Engineer | MSc High Integrity Systems @ Frankfurt University of Applied Sciences*| *Passionate about Systems, Scalability, and Agentic AI*
 
-I'm a software engineering enthusiast currently based in Frankfurt am Main, Germany. I enjoy building robust applications and solving complex problems. My journey in tech is fueled by a strong foundation in computer science, hands-on experience, and a continuous drive to learn and adapt to new technologies.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.ahmed.chy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ainan-ahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ainan-ahmed)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/ainan.ahmed)
 
-* 🎓 I'm currently pursuing my **MSc in High Integrity Systems** from Frankfurt University of Applied Sciences, and hold a **BSc in Computer Science and Engineering**.
-* 👨‍💻 Experience:
-	* **Working Student Software Engineer** at **Everest Systems GmbH** (Dec 2021 - Feb 2024).
- 	* Intern for Multidrop Networks at Huawei Research Center, Munich. (Oct 2025 - July 2026)
-* 🔭 I’m currently focused on developing and enhancing full stack development skill and exploring deeper into Agentic AI.
-* 📫 How to reach me: [Email me](mailto:a.ahmed.chy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ainan-ahmed/).
----
-
-## 🛠️ My Toolbox
-
-Here are some of the technologies and tools I enjoy working with/worked before:
-
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-
-**Frameworks and Libraries**
-<p align="left">
-	  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-	  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-	  <img src="https://img.shields.io/badge/TanStack_Router-EF4444?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Router"/>
-	  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Query"/>
-	  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logoColor=white" alt="Zustand"/> <img src="https://img.shields.io/badge/Mantine_UI-339AF0?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine UI"/>
-	  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-	
-</p>
-
-**Databases:**
-<p align="left>
-	  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-**DevOps & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+</div>
 
 ---
 
-## 🚀 My Recent Projects
+### 🎓 About Me
 
-1.  **EcommForAll** ([github.com/ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll))
-    * A full-stack AI integrated e-commerce platform.
-    * **Tech Stack:** React, TypeScript, Vite, TanStack Router & Query, Zustand, Mantine UI (Frontend); Java, Spring Boot, Spring AI, PostgreSQL, pgvector (Backend); Docker & Docker Compose.
-    * **Description:** Designed to be a modern, scalable, and type-safe online shopping experience, incorporating domain-driven design on the frontend and a layered architecture on the backend.
+I'm a software engineer currently based in Frankfurt am Main, Germany, focused on building robust, high-integrity applications.
 
-2.  **carefulWhisper**  ([github.com/ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper))
-    *  A local-first dictation backend and desktop app, for fast speech-to-text and paste-to-cursor workflows, with global hotkey and text output integration.
-    * **Tech Stack:** Python, FastAPI, faster-whisper, Slint(UI).
----
-
-## 🏆 Competitive Programming Highlights
-
-* **Codeforces Max Rating:** 1510 (Specialist) 
+*   🎓 **MSc in High Integrity Systems** @ Frankfurt University of Applied Sciences
+*   🎓 **BSc in Computer Science and Engineering**
+*   👨‍💻 **Intern for Multidrop Networks** @ Huawei Research Center, Munich (Oct 2025 - Jul 2026)
+*   👨‍💻 **Working Student Software Engineer** @ Everest Systems GmbH (Dec 2021 - Feb 2024)
+*   🏆 **Codeforces Specialist** (Max Rating: **1510**)
 
 ---
 
-## 📈 My GitHub Stats
+### 🛠️ My Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TanStack](https://img.shields.io/badge/TanStack-EF4444?style=flat-square&logo=tanstack&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine_UI-339AF0?style=flat-square&logo=mantine&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 🚀 Selected Projects
+
+*   **EcommForAll** ([GitHub](https://github.com/ainan-ahmed/EcommForAll))
+    *   *AI-Integrated full-stack e-commerce platform with domain-driven design.*
+    *   **Stack:** Spring Boot, Spring AI, pgvector, React, TanStack, Mantine, Docker.
+*   **CarefulWhisper** ([GitHub](https://github.com/ainan-ahmed/carefulWhisper))
+    *   *Local-first dictation desktop client and global paste-to-cursor system.*
+    *   **Stack:** Python, FastAPI, faster-whisper, Slint UI.
+-  **WardrobeAssistant** ([GitHub](https://github.com/ainan-ahmed/wardrobeAssistant))
+	- *A local-first, AI-powered personal wardrobe manager*
+    - **Stack:** Python, FastAPI, React, Mantine, Pywebview, OpenClip 
+---
+
+### 📊 Stats
 
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ainan-ahmed/ainan-ahmed/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=your-github-ainan-ahmed&color=yellowgreen&abbreviated=true)
----
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ainan_ahmed?theme=dark&font=Cagliostro)
 
+---
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. ℹ️ Labeled issue [#1](https://github.com/ainan-ahmed/carefulWhisper/issues/1) in [ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
 2. ❗ Opened issue [#1](https://github.com/ainan-ahmed/carefulWhisper/issues/1) in [ainan-ahmed/carefulWhisper](https://github.com/ainan-ahmed/carefulWhisper)
 3. 🎉 Merged PR [#132](https://github.com/ainan-ahmed/EcommForAll/pull/132) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-4. 💪 Opened PR [#132](https://github.com/ainan-ahmed/EcommForAll/pull/132) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
-5. 🎉 Merged PR [#122](https://github.com/ainan-ahmed/EcommForAll/pull/122) in [ainan-ahmed/EcommForAll](https://github.com/ainan-ahmed/EcommForAll)
 <!--END_SECTION:activity-->
 
 ---
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+**Thanks for visiting my corner of GitHub!**
